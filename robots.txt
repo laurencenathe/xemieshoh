@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://veereecei.collegepulse.app/sitemap.xml
